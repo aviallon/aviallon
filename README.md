@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I am Antoine Viallon 👋
 
+Here are my trophies 😄  
+[![trophy](https://github-profile-trophy.vercel.app/?username=aviallon)](https://github.com/ryo-ma/github-profile-trophy)
+
+You can also look at my Gitlab.com profile: [Gitlab.com / aviallon](https://gitlab.com/aviallon)  
+Also, check out one of my most popular project: [Ananicy Cpp](https://gitlab.com/ananicy-cpp/ananicy-cpp)
 <!--
 **aviallon/aviallon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
