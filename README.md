@@ -3,6 +3,9 @@
 Here are my trophies 😄  
 [![trophy](https://github-profile-trophy.vercel.app/?username=aviallon)](https://github.com/ryo-ma/github-profile-trophy)
 
+GitHub stats:  
+[![GithHub Score](https://github-readme-stats.vercel.app/api?username=aviallon&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/)
+
 You can also look at my Gitlab.com profile: [Gitlab.com / aviallon](https://gitlab.com/aviallon)  
 Also, check out one of my most popular project: [Ananicy Cpp](https://gitlab.com/ananicy-cpp/ananicy-cpp)
 <!--
